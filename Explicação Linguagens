@@ -1,0 +1,21 @@
+Python:
+
+Usa input() para obter os números do usuário e print() para mostrar o resultado.
+É fácil de entender e não requer etapas complexas.
+Pode ser executado sem a necessidade de instalar nada extra.
+Java:
+
+Usa a classe Scanner para obter entrada do usuário e System.out.println() para mostrar o resultado.
+É um pouco mais complexo de entender para iniciantes.
+Requer a instalação de Java Development Kit (JDK) para ser executado.
+JavaScript (Navegador Web):
+
+Incorpora JavaScript em uma página web para interação com o usuário.
+Obtém entrada do usuário diretamente dos campos de entrada na página e exibe o resultado na própria página.
+Não requer instalação de nada extra, apenas um navegador web.
+JavaScript (Node.js):
+
+Usa o módulo readline para obter entrada do usuário e console.log() para mostrar o resultado.
+Pode ser executado no servidor, fora do navegador, usando Node.js.
+Requer instalação do Node.js para ser executado.
+Essas diferenças resumidas destacam como cada linguagem e abordagem são diferentes em termos de simplicidade de uso, onde podem ser executadas e quais ferramentas adicionais podem ser necessárias.
